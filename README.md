@@ -1,1 +1,1 @@
-extrator de palavras chave
+
